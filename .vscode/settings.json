@@ -1,0 +1,8 @@
+{
+    "jdk.jdkhome": "E:/Java/JDK",
+    "jdk.project.jdkhome": "E:/Java/JDK",
+    "jdk.runConfig.vmOptions": "-Dstdout.encoding=UTF-8",
+    "code-runner.executorMap": {
+        "java": "chcp 65001 >nul && E:\\Java\\JDK\\bin\\java.exe -Dstdout.encoding=UTF-8 $fullFileName"
+    }
+}
